@@ -191,3 +191,34 @@
 # Clase 8 Como manipular cadenas de texto
 # --------------------------------------------------------
 
+
+# nombre = 'Sebastian Jeldres'
+
+# #indice de iniciacion
+# primer_nombre = nombre[0]
+
+# #indice de finalizacion
+# primer_nombre1 = nombre[0:9] # o usar nombre[:9]
+
+# # Extraer apellido
+# apellido = nombre[10:17] # o usar nombre[10:]
+
+# # Extraer caracteres con saltos
+# nombre2 = nombre[0:9:2] # o usar nombre[::2]
+
+# print(primer_nombre)
+# print(primer_nombre1)
+# print(apellido)
+# print(nombre2)
+
+# Invierte la cadena de texto
+# nombre_invertido = nombre[::-1]
+# print(nombre_invertido) 
+
+
+#Funcioon slide
+
+# website = 'https://wwwyoutube.com'
+
+# slice = slice(11, -4)  # Empieza desde el indice 11 y termina 4 caracteres antes del final
+# print(website[slice])  # Imprime 'youtube' 
