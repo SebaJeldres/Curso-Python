@@ -235,4 +235,14 @@
 # elif edad < 18:
 #     print('Eres menor de edad')
 
+# --------------------------------------------------------
+# Clase 10 Operadores logicos
+# --------------------------------------------------------
 
+# temperatura = int(input('Cual es la temperatura? '))
+
+# if (temperatura >= 0 and temperatura <= 30):
+#     print('La temperatura esta bien hoy ')
+
+# elif (temperatura < 0 or temperatura > 30):
+#     print('La temperatura no esta bien hoy')
