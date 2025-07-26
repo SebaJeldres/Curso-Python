@@ -135,15 +135,59 @@
 # Clase 6 Ingresar texto en python
 # --------------------------------------------------------
 
-#String (Entrada por defecto)
-nombre = input('Cual es tu nombre? ')
+# String (Entrada por defecto)
+# nombre = input('Cual es tu nombre? ')
 
-#int
-edad = int(input('Cual es tu edad? '))
+# int
+# edad = int(input('Cual es tu edad? '))
 
 # float
-altura = float(input('Cual es tu altura? '))
+# altura = float(input('Cual es tu altura? '))
 
-print('Hola ' + nombre)
-print('Tu edad es: ' + str(edad))
-print('Tu altura es: ' + str(altura))
+# print('Hola ' + nombre)
+# print('Tu edad es: ' + str(edad))
+# print('Tu altura es: ' + str(altura))
+
+# --------------------------------------------------------
+# Clase 7 Funciones matematicas
+# --------------------------------------------------------
+
+# Importar biblioteca math
+# import math
+
+# PI = 3.14
+# PI2 = -3.14
+
+
+# x = 2
+# y = 1
+# z = 3
+
+# # Redondear un numero
+# print(round(PI))
+
+# # Redondea hacia arriba
+# print(math.ceil(PI))  
+
+# # redondea hacia abajo
+# print(math.floor(PI))
+
+# # Valor absoluto
+# print(abs(PI2))
+
+# # Potencia
+# print(pow(PI, 2))  
+
+# # Raiz cuadrada
+# print(math.sqrt(420))
+
+# # Maximo
+# print(max(x, y, z))  
+
+# # Minimo
+# print(min(x, y, z))
+
+# --------------------------------------------------------
+# Clase 8 Como manipular cadenas de texto
+# --------------------------------------------------------
+
