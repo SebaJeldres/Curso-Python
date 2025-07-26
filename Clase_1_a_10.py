@@ -222,3 +222,17 @@
 
 # slice = slice(11, -4)  # Empieza desde el indice 11 y termina 4 caracteres antes del final
 # print(website[slice])  # Imprime 'youtube' 
+
+
+# --------------------------------------------------------
+# Clase 9 Instrucciones if, else y elif
+# --------------------------------------------------------
+
+# edad = int(input('Cual es tu edad? '))
+
+# if edad >= 18:
+#     print('Eres mayor de edad')
+# elif edad < 18:
+#     print('Eres menor de edad')
+
+
