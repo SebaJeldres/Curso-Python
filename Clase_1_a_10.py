@@ -109,3 +109,29 @@
 
 # Repite una cadena de texto
 # print(nombre * 4)
+
+# --------------------------------------------------------
+# Clase 5 Convertir tipos de datos
+# --------------------------------------------------------
+
+# x = 1
+# y = 2.5
+# z = '3'
+
+# x = str(x)
+# y = int(y)
+# z = float(z)
+
+# print(x)  
+# print(y)  
+# print(z)  
+
+# print(str(x))
+# print(int(y))
+# print(float(z))
+
+
+# --------------------------------------------------------
+# Clase 6 Ingresar texto en python
+# --------------------------------------------------------
+
