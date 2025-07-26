@@ -72,5 +72,40 @@
 # print(nombre4)
 
 # --------------------------------------------------------
-# Clase 4
+# Clase 4 Metodos de cadenas de texto
 # --------------------------------------------------------
+
+# nombre = 'Sebastian'
+# apellido = 'jeldes'
+# edad = 21
+
+# contar caracteres de cadenas de texto
+# print(len(nombre))
+# print(len(apellido))
+
+#Encontrar la posicion de un caracter
+# print(nombre.find("s"))
+
+# primera palabra en mayusculas
+# print(apellido.capitalize())
+
+# Convertir a mayusculas
+# print(nombre.upper())  
+
+# # Convertir a minusculas
+# print(nombre.lower())
+
+# Verifica si es un numero
+# print(edad.isdigit())  
+
+# Verifica si es un caracter alfabetico
+# print(nombre.isalpha())
+
+# # Cuenta cuantas veces aparece un caracter en una cadena de texto
+# print(nombre.count('a'))  
+
+# Reemplaza un caracter por otro
+# print(nombre.replace('a', 'o'))  
+
+# Repite una cadena de texto
+# print(nombre * 4)
