@@ -135,3 +135,15 @@
 # Clase 6 Ingresar texto en python
 # --------------------------------------------------------
 
+#String (Entrada por defecto)
+nombre = input('Cual es tu nombre? ')
+
+#int
+edad = int(input('Cual es tu edad? '))
+
+# float
+altura = float(input('Cual es tu altura? '))
+
+print('Hola ' + nombre)
+print('Tu edad es: ' + str(edad))
+print('Tu altura es: ' + str(altura))
